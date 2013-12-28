@@ -68,3 +68,7 @@ will be put into `/etc/ssl/certs/{domain.name}.combined.crt`. The separate chain
 cert is for Apache, and the combined one is for Nginx. A CA cert will be stored
 as `/etc/ssl/certs/{domain.name}-ca.crt`, however you can put the CA in a data bag
 of it's own if you'd prefer a different prefix than `domain.name`.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/miry/ssl-cookbook/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
